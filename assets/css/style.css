@@ -1,0 +1,27 @@
+
+
+body {
+  background-image: url("../images/gems.gif");
+  }
+
+
+.jumbotron {
+  background: linear-gradient(#e66465, purple);
+  margin-top: 30px;
+  padding: 50px;
+  color: #ffffff;
+  font-family: 'Encode Sans Expanded', sans-serif;
+  
+
+}
+
+.card {
+  border: 1px solid black;
+}
+
+.card-header {
+  background-color: #eea1a8;
+  font-family: 'Encode Sans Expanded', sans-serif;
+  color: #13082c;
+  font-weight: bold;
+}
